@@ -1,0 +1,1338 @@
+
+
+--- PAGE 1 ---
+
+Research Notes on the General Framework of EU-
+China Relations
+Method and source note
+These notes cover only Chapter I of the thesis and are built from sources that were directly checked during
+this research session: official EU legal and policy documents, Eurostat and DG Trade statistical pages, WTO
+materials, European Parliament studies, and selected academic publications that were accessible in abstract
+or full text. Where two official EU sources reported slightly different values for the same recent trade
+aggregate, the discrepancy is stated explicitly rather than harmonised without a fresh database extraction,
+in line with the user’s instruction not to choose silently between conflicting figures. 
+The source base is weighted toward official EU and WTO materials because the chapter is about the
+historical, institutional, and policy framework of EU-China economic relations. Chinese official materials are
+used sparingly and identified as official Chinese government perspective when referenced. Academic
+interpretation is separated from factual description. Where a verified page number was available from a
+PDF, it is given; where only HTML or search-result text was verified, page numbers are omitted. 
+Evolution of the strategic partnership
+This section corresponds to thesis subsection 1.1, “Evolution of the EU-China strategic partnership,
+1975-2025.”
+Short research summary
+EU-China relations began as a limited diplomatic and trade relationship and evolved into a dense but
+increasingly conflictual partnership. Official EU sources identify 1975 as the year diplomatic ties were
+established, while the 25th EU-China summit in July 2025 explicitly marked the 50th anniversary of those
+relations. The first formal trade pillar came through the 1978 Trade Agreement between the EEC and
+China, which created a Joint Committee for Trade, while the 1985 Trade and Economic Cooperation
+Agreement broadened the relationship from trade to wider economic cooperation and created a Joint
+Committee structure that still underpins the legal framework. 
+The relationship did not develop linearly. The 1989 Tiananmen crackdown triggered a political freeze and
+the EU arms embargo on China, which EU institutions still trace to the Madrid European Council
+declaration of 27 June 1989. Although trade continued, security cooperation remained structurally limited
+thereafter . China’s WTO accession on 11 December 2001 marked a new phase of economic deepening and
+accelerated China’s integration into the multilateral trade order , which in turn intensified EU expectations
+regarding reciprocity, subsidy discipline, and market access. 
+1
+2
+3
+4
+1
+
+--- PAGE 2 ---
+
+The relationship was politically upgraded in 2003 to a comprehensive strategic partnership, and the EU-
+China 2020 Strategic Agenda for Cooperation, adopted in 2013, became the highest-level joint guidance
+document for the partnership. However , official EU language shifted markedly in 2019, when the
+Commission and the High Representative described China simultaneously as a cooperation partner, a
+negotiating partner, an economic competitor, and a systemic rival. That document is the clearest
+official marker of the EU’s move away from a predominantly engagement-based framework toward a more
+differentiated and defensive one. 
+The 2020-2023 phase combined ambitious economic negotiation with severe political deterioration. In 
+September-November 2020, the EU and China concluded and approved the Geographical Indications
+Agreement, the first significant bilateral trade agreement between them. In December 2020, the two sides
+also reached an agreement in principle on the Comprehensive Agreement on Investment, but the
+investment file stalled after the 2021 sanctions-and-countersanctions cycle and the European Parliament’s
+decision that CAI consideration was “justifiably frozen.” Russia’s war against Ukraine, China’s alignment
+choices, and widening concerns over overcapacity, subsidies, export controls, and coercion accelerated the
+policy turn. 
+Since 2023, the central EU formula has been “de-risking, not decoupling.” The June 2023 European
+Council conclusions stated that the EU would reduce critical dependencies and vulnerabilities and “de-risk
+and diversify where necessary and appropriate,” while affirming that the EU “does not intend to decouple.”
+The December 2023 summit reiterated that de-risking means strengthening resilience by addressing
+critical dependencies in specific sectors, and the July 2025 summit linked the 50th anniversary to a more
+explicit debate over “critically unbalanced” trade, overcapacity, market access, and Chinese restrictions on
+rare earths and permanent magnets. 
+Key verified facts
+Diplomatic relations between the European Communities/EU and China date to 1975, and the 25th
+EU-China summit held on 24 July 2025 was officially framed as the 50th anniversary of those ties.
+(EEAS, 2013; Consilium, 2025) 
+The 1978 Trade Agreement established an EEC-China Joint Committee for Trade and provided that
+trade in goods and services would be carried out at market-related prices and rates. (EUR-Lex, 1978,
+Article 7/Article 9 verified through EUR-Lex search excerpt) 
+The 1985 Trade and Economic Cooperation Agreement broadened the relationship and created a 
+Joint Committee to monitor the agreement, review cooperation schemes, and examine obstacles to
+trade and economic cooperation. (EUR-Lex, 1985, Article 15 verified through EUR-Lex search excerpt) 
+The EU arms embargo on China was established in the wake of Tiananmen in a European Council
+declaration of 27 June 1989; that legal-political legacy still shapes security cooperation. (European
+Parliament answer on behalf of the Commission, 2023) 
+China became a WTO Member on 11 December 2001 under its Protocol of Accession. (WTO, 2001) 
+The relationship was upgraded to a comprehensive strategic partnership in 2003, and the EU-
+China 2020 Strategic Agenda for Cooperation was jointly adopted in 2013. (Springer article
+abstract/intro, 2025; EEAS, 2013) 
+5
+6
+7
+• 
+8
+• 
+9
+• 
+10
+• 
+11
+• 
+12
+• 
+13
+2
+
+--- PAGE 3 ---
+
+The 2019 Strategic Outlook defined China as simultaneously a cooperation partner, negotiating
+partner, economic competitor, and systemic rival. (European Commission & HR/VP , 2019, p. 1 of
+the document body as verified) 
+The 2020-2021 period combined the GI agreement with the CAI in principle, but CAI ratification
+was then frozen by the European Parliament after Chinese sanctions against EU institutions and
+MEPs. (Council of the EU, 2020; European Parliament, 2021) 
+The 2023-2025 period is officially characterised by de-risking rather than decoupling and by
+stronger EU concern over trade imbalance, overcapacity, and strategic dependencies. (European
+Council, 2023; Consilium, 2023; Consilium, 2025) 
+Quantitative data table
+Indicator EU
+value
+China /
+bilateral
+value
+Year Source /
+database URL Access
+date
+Total EU-
+China
+goods
+trade
+n/a
+€401.623
+billion
+bilateral
+trade
+2014
+European
+Commission
+DG Trade
+factsheet;
+source cited
+as Eurostat
+Comext,
+statistical
+regime 4
+https://
+webgate.ec.europa.eu/
+isdb_results/
+factsheets/country/
+details_china_en.pdf
+2026-05-06
+Total EU-
+China
+goods
+trade
+n/a
+€858.168
+billion
+bilateral
+trade
+2022
+European
+Commission
+DG Trade
+factsheet;
+source cited
+as Eurostat
+Comext,
+statistical
+regime 4
+https://
+webgate.ec.europa.eu/
+isdb_results/
+factsheets/country/
+details_china_en.pdf
+2026-05-06
+EU
+exports
+of goods
+to China
+€199.6
+billion n/a 2025
+Eurostat,
+dataset 
+ds-059331
+https://ec.europa.eu/
+eurostat/web/
+products-eurostat-
+news/w/
+ddn-20260410-2
+2026-05-06
+EU
+imports
+of goods
+from
+China
+€559.4
+billion n/a 2025
+Eurostat,
+dataset 
+ds-059331
+https://ec.europa.eu/
+eurostat/web/
+products-eurostat-
+news/w/
+ddn-20260410-2
+2026-05-06
+• 
+14
+• 
+15
+• 
+7
+3
+
+--- PAGE 4 ---
+
+Indicator EU
+value
+China /
+bilateral
+value
+Year Source /
+database URL Access
+date
+EU
+goods
+trade
+deficit
+with
+China
+-
+€359.8
+billion
+bilateral
+balance 2025
+Eurostat,
+dataset 
+ds-059331
+https://ec.europa.eu/
+eurostat/web/
+products-eurostat-
+news/w/
+ddn-20260410-2
+2026-05-06
+Two official EU sources differ slightly for 2024 goods trade values: the DG Trade factsheet reports €519.0
+billion imports and €213.2 billion exports, while the Eurostat news release reports €517.8 billion imports
+and €213.3 billion exports. This should be footnoted as an unresolved official-data discrepancy unless the
+underlying extraction is re-run directly from the source database. (European Commission DG Trade, 2025;
+Eurostat, 2025) 
+Main academic interpretations
+Academic literature converges on the idea that the relationship combines continuity in economic
+interdependence with change in political trust and security framing. Jing Men argues that continuity
+persists where material interdependence, institutionalisation, and shared functional interests remain
+strong, whereas change is driven by normative divergence, strategic competition, and external shocks.
+(Men, 2025) 
+Richard Maher’s classic argument remains relevant: the 2003 strategic partnership raised expectations
+that EU-China relations would become “comprehensive,” but the relationship did not move decisively
+beyond trade into coherent alignment on wider political and security objectives. (Maher , 2016, abstract as
+checked) 
+Frédéric Krumbein’s 2025 article interprets the last decade as a move from liberal/institutionalist
+engagement toward a more realist EU approach focused on reciprocity, economic security, and risk
+management. In his reading, 2019 was the decisive watershed because it formally introduced the
+competitor/rival language that still structures EU policy. (Krumbein, 2025) 
+Policy relevance for the thesis
+For the thesis, the core analytical point is that EU-China economic relations did not move from cooperation
+to conflict in a simple sequence. Instead, economic ties deepened even while the political interpretation of
+those ties changed. That distinction is essential for later chapters dealing with trade, competition, and
+policy instruments: the framework shifted from engagement under conditions of growing
+interdependence to engagement under conditions of managed risk. The historical periodisation should
+therefore foreground both continuity of exchange and the progressive hardening of EU policy language and
+instruments. 
+16
+17
+18
+19
+20
+4
+
+--- PAGE 5 ---
+
+Source list in APA style
+Council of the European Union. (2025, July 24). 25th EU-China summit - EU press release. https://
+www.consilium.europa.eu/en/press/press-releases/2025/07/24/25th-eu-china-
+summit-eu-press-release/
+European Commission & High Representative of the Union for Foreign Affairs and Security Policy.
+(2019). EU-China – A strategic outlook (JOIN(2019) 5 final). https://commission.europa.eu/
+system/files/2019-03/communication-eu-china-a-strategic-outlook.pdf
+European External Action Service. (2013, November 23). EU-China 2020 Strategic Agenda for
+Cooperation. https://www.eeas.europa.eu/sites/default/files/20131123.pdf
+Eurostat. (2026, April 10). Trade in goods with China in 2025. https://ec.europa.eu/eurostat/
+web/products-eurostat-news/w/ddn-20260410-2
+Eurostat. (2025, March 4). Slight decline in imports and exports from China in 2024. https://
+ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250304-1
+Krumbein, F. (2025). Less panda, more dragon – Moving towards realism in EU–China relations. 
+International Journal of Asian Studies, 22(2), 293–312. https://www.cambridge.org/core/
+journals/international-journal-of-asian-studies/article/less-panda-more-
+dragon-moving-towards-realism-in-euchina-relations/
+5BC424D5D84DEEE434DBC3CB77C36AB5
+Maher , R. (2016). The elusive EU-China strategic partnership. International Affairs, 92(4), 959–976.
+Abstract page checked at https://cadmus.eui.eu/entities/publication/
+b0b6ea42-5428-57b9-abc0-3158f305036e
+Men, J. (2025). EU–China relations at 50: Continuity, change, and institutional resilience. China
+International Strategy Review, 7, 242–257. https://link.springer.com/article/10.1007/
+s42533-025-00200-0
+World Trade Organization. (2001). Protocol on the accession of the People’s Republic of China. Verified
+via WTO accession notice at https://goods-schedules.wto.org/system/files/WTO_import/
+Drive/WT-Let_English/408.pdf
+Gaps or claims requiring further verification
+The exact day of the 1975 establishment of diplomatic relations was not separately verified from an
+official EU legal archive during this session; only the year and the 2025 “50th anniversary” framing
+were verified. 
+The full text of the 1978 Trade Agreement and 1985 Agreement was partly verified through EUR-
+Lex search excerpts because direct HTML opening on EUR-Lex triggered bot protection during this
+session. The verified claims used here are limited to points visible in the checked excerpts. 
+The 2024 official trade-value discrepancy between Eurostat news and DG Trade factsheet should be
+checked directly in the underlying database if exact statistical consistency is required in the final
+thesis tables. 
+Institutional framework and bilateral trade agreements
+This section corresponds to thesis subsection 1.2, “Institutional framework and bilateral trade
+agreements.”
+• 
+21
+• 
+22
+• 
+23
+• 
+24
+• 
+25
+• 
+19
+• 
+18
+• 
+17
+• 
+12
+• 
+8
+• 
+26
+• 
+16
+5
+
+--- PAGE 6 ---
+
+Short research summary
+The legal backbone of EU-China economic relations remains relatively narrow compared with the scale of
+bilateral trade. The enduring base is still the 1985 Trade and Economic Cooperation Agreement, which
+formalised trade and broader economic cooperation and established a standing Joint Committee. Over
+time, this treaty framework was complemented by a dense network of summitry, sectoral dialogues, WTO
+disciplines, and a limited number of specialised bilateral agreements, but not by a comprehensive free trade
+agreement. The EU-China 2020 Strategic Agenda for Cooperation became the highest-level joint roadmap
+from 2013, while the annual summit and the High-Level Economic and Trade Dialogue emerged as the
+main institutional venues for economic coordination. DG Trade currently identifies the HLED as the principal
+platform in which the Commission Executive Vice-President and the Chinese Vice Premier address major
+trade and investment issues. 
+In legal terms, the bilateral framework is nested inside the WTO system. China’s 2001 WTO accession
+deepened trade and investment relations, but it also strengthened the EU’s expectation that China would
+move toward non-discrimination, subsidy discipline, transparency, and commercially meaningful market
+access. These expectations remain central to the EU position in recent Commission and Council documents.
+Yet the WTO layer has also been conflictual: China requested consultations against the EU in DS516 in 
+December 2016 over the Union’s price-comparison methodology in anti-dumping proceedings involving
+Chinese products, and a panel was established in April 2017. That dispute captures the long-running
+controversy over China’s market economy status and the EU’s continued use of alternative methodologies
+where significant distortions are found. 
+The only major sector-specific bilateral agreement that was fully concluded and approved in the last decade
+is the EU-China Agreement on Geographical Indications. Official Council materials describe it as the first
+significant bilateral trade agreement signed between the EU and China. It protects 100 EU agri-food
+GIs in China and 100 Chinese GIs in the EU, and provides for an extension covering 175 additional GI
+names on each side four years after entry into force. The agreement was signed on 14 September 2020
+and the EU adopted the conclusion decision on 23 November 2020. 
+By contrast, the Comprehensive Agreement on Investment remains the clearest case of institutional non-
+completion. Negotiations formally started in 2014, followed years of exchanges on market access and level
+playing field rules, and concluded in principle on 30 December 2020. Commission materials emphasise
+that the CAI contained commitments on market access, state-owned enterprises, transparency of subsidies,
+prohibition of forced technology transfer , and sustainable development. However , the agreement was never
+ratified. The European Parliament stated in May 2021 that consideration of the CAI was “justifiably frozen”
+until Chinese counter-sanctions on EU actors were lifted. 
+Since 2019, the institutional framework has been increasingly supplemented by trade-defence and
+economic-security instruments. These include the FDI Screening Regulation (2019), the Dual-Use
+Regulation (2021), the Anti-Coercion Instrument (2023), and the European Economic Security Strategy
+(2023), which explicitly links trade, investment, export controls, technology leakage, coercion, and supply-
+chain resilience. The 2023 strategy groups risks into four broad categories: supply-chain resilience, critical
+infrastructure security, technology security and leakage, and weaponisation of dependencies/
+economic coercion. It also links this risk framework to instruments such as trade defence, the Foreign
+Subsidies Regulation, FDI screening, and potential outbound-investment scrutiny. Together , these measures
+27
+28
+29
+30
+6
+
+--- PAGE 7 ---
+
+show that EU-China economic relations are now governed not only by market-opening instruments, but
+increasingly by defensive and security-oriented law. 
+Key verified facts
+The 1985 Trade and Economic Cooperation Agreement remains the core bilateral trade-and-
+cooperation treaty and created a Joint Committee. (EUR-Lex, 1985, Article 15 verified through
+excerpt) 
+The EU-China 2020 Strategic Agenda for Cooperation was adopted in 2013 and is described in EU
+materials as the highest-level joint document guiding the comprehensive strategic partnership.
+(EEAS, 2013; EUR-Lex summary, 2017) 
+DG Trade identifies the EU-China High-Level Economic and Trade Dialogue as the main
+institutional mechanism for trade and investment issues beneath summit level. (European
+Commission DG Trade, accessed 2026-05-06) 
+China requested WTO consultations in DS516 on 12 December 2016, and the WTO established a
+panel on 3 April 2017. (European Commission case summary; WTO document summary) 
+The GI Agreement is officially described by the Council as the first significant bilateral trade
+agreement between the EU and China; it covers 100 + 100 GIs initially and 175 + 175 additional
+names after four years. (Council of the EU, 2020) 
+The CAI was concluded in principle on 30 December 2020, but the European Parliament stated in 
+May 2021 that consideration of the agreement and discussion of ratification had been frozen
+because of Chinese sanctions. (European Commission DG Trade; European Parliament, 2021) 
+The FDI Screening Regulation is Regulation (EU) 2019/452; the Dual-Use Regulation is 
+Regulation (EU) 2021/821; the Anti-Coercion Instrument is Regulation (EU) 2023/2675. (EUR-Lex;
+European Commission) 
+The European Economic Security Strategy identifies four broad risk categories: supply chains,
+critical infrastructure, technology security/leakage, and weaponisation of dependencies/economic
+coercion. (European Commission & HR/VP , 2023, verified in Council document copy) 
+Verified legal-institutional chronology table
+Instrument /
+forum
+Verified
+date
+What was
+verified
+Source /
+database URL Access
+date
+EEC-China
+Trade
+Agreement
+1978-04-03
+signed; OJ
+title
+verified
+Trade
+agreement
+title and 1978
+signature/
+approval
+context; Joint
+Committee
+for Trade
+EUR-Lex https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:21978A0403(01)2026-05-06
+31
+• 
+10
+• 
+32
+• 
+33
+• 
+34
+• 
+35
+• 
+36
+• 
+37
+• 
+38
+7
+
+--- PAGE 8 ---
+
+Instrument /
+forum
+Verified
+date
+What was
+verified
+Source /
+database URL Access
+date
+Trade and
+Economic
+Cooperation
+Agreement
+1985-05-21
+signed; EU
+approval
+regulation
+dated
+1985-09-16;
+OJ
+1985-09-19
+Core bilateral
+treaty; Joint
+Committee
+EUR-Lex https://eur-lex.europa.eu/eli/reg/1985/2616/oj/eng 2026-05-06
+China WTO
+accession 2001-12-11
+China
+became WTO
+Member on
+11 December
+2001
+WTO https://goods-schedules.wto.org/system/files/WTO_import/Drive/WT-Let_English/408.pdf2026-05-06
+EU-China
+2020
+Strategic
+Agenda for
+Cooperation
+2013-11-23
+Adoption of
+highest-level
+joint
+cooperation
+agenda
+EEAS https://www.eeas.europa.eu/sites/default/files/20131123.pdf 2026-05-06
+WTO DS516
+consultations
+request
+2016-12-12
+China
+requested
+consultations
+against EU
+price-
+comparison
+methodology
+European
+Commission /
+WTO
+https://policy.trade.ec.europa.eu/enforcement-and-protection/dispute-settlement/wto-dispute-
+settlement/wto-disputes-cases-involving-eu/wtds516-european-union-measures-related-price-
+comparison-methodologies_en
+2026-05-06
+WTO DS516
+panel
+established
+2017-04-03
+WTO DSB
+established
+panel
+WTO https://docs.wto.org/dol2fe/Pages/FE_Search/FE_S_S009-Html.aspx?
+BoxNumber=3&DocumentPartNumber=1&FullTextHash=371857150&Id=238019&PreviewContext=DP&Window=L2026-05-06
+GI
+Agreement
+signed
+2020-09-14
+Signature
+authorised
+and later
+conclusion
+adopted
+EUR-Lex /
+Council https://eur-lex.europa.eu/eli/dec/2020/1832/oj/eng 2026-05-06
+CAI
+agreement
+in principle
+2020-12-30
+Negotiations
+concluded in
+principle
+European
+Commission
+DG Trade
+https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-
+regions/china/eu-china-agreement/agreement-explained_en 2026-05-06
+8
+
+--- PAGE 9 ---
+
+Instrument /
+forum
+Verified
+date
+What was
+verified
+Source /
+database URL Access
+date
+CAI frozen in
+Parliament 2021-05-20
+Parliament
+said CAI
+consideration
+was
+“justifiably
+frozen”
+European
+Parliament
+https://www.europarl.europa.eu/pdfs/news/expert/2021/5/press_release/
+20210517IPR04123/20210517IPR04123_en.pdf 2026-05-06
+FDI
+Screening
+Regulation
+2019-03-19
+EU
+framework
+for screening
+inbound FDI
+EUR-Lex https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32019R0452 2026-05-06
+Dual-Use
+Regulation
+2021-05-20
+adopted;
+OJ
+2021-06-11
+EU export-
+control
+framework
+for dual-use
+items
+EUR-Lex https://eur-lex.europa.eu/eli/reg/2021/821/oj/eng 2026-05-06
+Anti-
+Coercion
+Instrument
+2023-11-22
+adopted;
+2023-12-27
+entered
+into force
+EU response
+framework
+for economic
+coercion
+EUR-Lex /
+Commission https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:02023R2675-202312072026-05-06
+Main academic interpretations
+Academic work on institutionalisation stresses that the EU-China relationship has become deeply routinised
+even when political trust is weak. Fanoulis and Song argue that a great deal of the literature on EU-China
+relations is best understood through the institutionalisation of cooperation, rather than through a simple
+binary of success or failure. (Fanoulis & Song, 2021, abstract checked) 
+On the CAI, policy-legal commentary is divided. A CEPS legal-policy paper argued that the agreement largely
+delivered on the EU negotiating mandate in terms of market-access and level-playing-field objectives, while
+other European institutional analyses have emphasised its political fragility and the institutional difficulty of
+ratification after the 2021 sanctions dispute. The core scholarly implication is that institutional law could
+no longer be insulated from broader geopolitical conflict. (CEPS, 2021; European Parliament material,
+2021) 
+On the market-economy-status dispute, legal scholarship visible in the materials checked suggests that the
+expiry of paragraph 15(d) of China’s WTO Accession Protocol did not automatically remove the EU’s capacity
+to treat Chinese prices as distorted in anti-dumping methodology. That helps explain why the legal conflict
+shifted from the older “non-market economy” vocabulary toward the EU’s newer language of significant
+distortions. (Manchester legal manuscript abstract; Commission 2024 distortions report) 
+39
+40
+41
+9
+
+--- PAGE 10 ---
+
+Policy relevance for the thesis
+For the thesis, this subsection should show that EU-China economic relations are governed by a hybrid
+legal architecture: an old core treaty (1985), multilateral WTO commitments, limited sectoral bilateral
+agreements, and a rapidly expanding layer of autonomous EU trade-defence and economic-security
+instruments. That combination matters analytically because it explains why the EU can intensify
+restrictions, screening, and investigations without first renegotiating its foundational bilateral treaty with
+China. It also helps explain why the relationship can remain formally cooperative while becoming
+substantively more defensive. 
+Source list in APA style
+Council of the European Union. (2020, July 20). EU-China: Council authorises signature of the agreement
+on geographical indications. https://www.consilium.europa.eu/en/press/press-releases/
+2020/07/20/eu-china-council-authorises-signature-of-the-agreement-on-
+geographical-indications/
+Council of the European Union. (2020, November 23). EU-China: Council gives final green light to the
+agreement on geographical indications. https://www.consilium.europa.eu/en/press/press-
+releases/2020/11/23/eu-china-council-gives-final-green-light-to-the-agreement-
+on-geographical-indications/
+European Commission. (n.d.). EU trade relations with China. https://
+policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-
+and-regions/china_en
+European Commission. (n.d.). EU-China agreement explained. https://
+policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-
+and-regions/china/eu-china-agreement/agreement-explained_en
+European Commission. (n.d.). WT/DS516 - European Union - Measures Related to Price Comparison
+Methodologies. https://policy.trade.ec.europa.eu/enforcement-and-protection/
+dispute-settlement/wto-dispute-settlement/wto-disputes-cases-involving-eu/
+wtds516-european-union-measures-related-price-comparison-methodologies_en
+European Parliament. (2021, May 17/20). Talks on ratifying the EU-China agreement not possible for
+now / resolution materials on Chinese countersanctions. https://www.europarl.europa.eu/
+pdfs/news/expert/2021/5/press_release/20210517IPR04123/20210517IPR04123_en.pdf
+European Union. (2019). Regulation (EU) 2019/452 establishing a framework for the screening of foreign
+direct investments into the Union. https://eur-lex.europa.eu/legal-content/EN/ALL/?
+uri=CELEX:32019R0452
+European Union. (2021). Regulation (EU) 2021/821 setting up a Union regime for the control of exports,
+brokering, technical assistance, transit and transfer of dual-use items. https://eur-lex.europa.eu/
+eli/reg/2021/821/oj/eng
+European Union. (2023). Regulation (EU) 2023/2675 on the protection of the Union and its Member States
+from economic coercion by third countries. https://eur-lex.europa.eu/legal-content/EN/
+ALL/?uri=CELEX:02023R2675-20231207
+European Commission & High Representative of the Union for Foreign Affairs and Security Policy.
+(2023). European Economic Security Strategy (verified in Council document ST 10919/23). https://
+data.consilium.europa.eu/doc/document/ST-10919-2023-INIT/en/pdf
+42
+• 
+43
+• 
+44
+• 
+33
+• 
+45
+• 
+46
+• 
+47
+• 
+48
+• 
+49
+• 
+50
+• 
+38
+10
+
+--- PAGE 11 ---
+
+Fanoulis, E., & Song, W. (2021). Cooperation between the EU and China: A post-liberal
+governmentality approach. Review of International Studies. Abstract page checked at https://
+www.cambridge.org/core/journals/review-of-international-studies/article/
+cooperation-between-the-eu-and-china-a-postliberal-governmentality-approach/
+B7AB48AD07483F8503691E777988F6D1
+Jacques, S., et al. (2021). The EU-China Comprehensive Agreement on Investment. CEPS Policy Insight. 
+https://cdn.ceps.eu/wp-content/uploads/2021/05/PI2021-07_The-EU-China-
+Comprehensive-Agreement-on-Investment.pdf
+Gaps or claims requiring further verification
+The precise entry-into-force date of the GI Agreement was not independently verified from the full
+treaty text during this session, although signature and conclusion dates were verified. 
+The final procedural status of WTO DS516 beyond panel establishment was not fully reconstructed
+from the WTO timeline during this session; only the consultations request and panel establishment
+were verified. 
+Recent 2025 services and FDI figures on the DG Trade China page were verified as official
+Commission statements, but the underlying standalone database table or extraction query was not
+separately identified in the checked materials. 
+Current challenges and the shift to de-risking
+This section corresponds to thesis subsection 1.3, “Current challenges: de-risking vs. de-coupling.”
+Short research summary
+The language of de-risking marks the EU’s central conceptual shift in its China policy. Official EU sources do
+not define the term as a total reduction of economic ties; rather , they define it by contrast with decoupling.
+In the June 2023 European Council conclusions, the EU committed to reducing critical dependencies and
+vulnerabilities, including in supply chains, and to de-risking and diversifying “where necessary and
+appropriate,” while stating explicitly that it “does not intend to decouple.” Ursula von der Leyen’s March
+2023 China speech made the same point even more clearly: it is “neither viable nor in Europe’s interest” to
+decouple from China, but Europe must address excessive dependencies, technology leakage, and economic
+coercion. The December 2023 summit then translated this into operational language by saying that “de-
+risking but not decoupling” aims to strengthen resilience by addressing critical dependencies in specific
+sectors. 
+The official policy driver is now economic security. The checked version of the European Economic
+Security Strategy identifies four broad families of risk: supply-chain resilience, physical and cyber-
+security of critical infrastructure, technology security and technology leakage, and the 
+weaponisation of dependencies or economic coercion. The same strategy ties these risks to a three-part
+policy approach: promote competitiveness, protect against risks, and partner internationally. This is
+the most authoritative official framework currently available for explaining why the EU is moving from
+generic market engagement toward targeted resilience measures. 
+Sectorally, the EU’s concern is concentrated in critical raw materials, clean technologies, batteries,
+electric vehicles, semiconductors, and data/dual-use technologies. In her March 2023 speech, von der
+• 
+39
+• 
+51
+• 
+52
+• 
+34
+• 
+33
+53
+54
+11
+
+--- PAGE 12 ---
+
+Leyen highlighted Commission concern that the EU relied on one single supplier—China—for 98% of rare
+earth supply, 93% of magnesium, and 97% of lithium, and linked this explicitly to the Critical Raw
+Materials Act, the Chips Act, and the Net-Zero Industry Act. The economic-security strategy likewise
+presents the CRM Act, Chips Act, and Net-Zero Industry Act as de-risking tools intended to reduce
+dependencies and strengthen resilience. These figures should be used carefully in the thesis because they
+were verified from a political speech and strategy materials rather than from an independently identified
+raw-materials dataset during this session. 
+The clearest trade-policy manifestation of de-risking has been the turn to subsidy and overcapacity
+investigations, especially in clean-tech sectors. The EU imposed a provisional countervailing duty on
+imports of new battery electric vehicles from China in July 2024 and a definitive countervailing duty in 
+October 2024. The Commission described the BEV case as one of the most economically significant trade-
+defence actions of 2024, and the 2025 EU-China summit explicitly referred to ongoing systemic
+distortions and growing manufacturing overcapacity. At the same summit, the EU also protested
+Chinese restrictions on rare earths and permanent magnets, showing that de-risking now concerns both
+import competition and upstream input vulnerability. 
+European business sentiment broadly supports the interpretation that political and regulatory risk has
+become central. The European Chamber of Commerce in China reported in 2024 that 68% of respondents
+said doing business in China had become more difficult and 58% said they had missed business
+opportunities because of market-access or regulatory barriers. Its 2025 survey reported 73% saying
+business became more difficult in 2024, 63% reporting missed opportunities due to market-access or
+regulatory barriers, and 52% saying the business environment had become more politicised. At the same
+time, the same 2025 survey found 26% partly or fully onshoring supply chains into China and only 13%
+offshoring or creating alternatives, which is a useful reminder that de-risking is not producing a simple
+exodus from China. 
+Key verified facts
+The European Council stated on 30 June 2023 that the EU would reduce critical dependencies and
+vulnerabilities and would “de-risk and diversify where necessary and appropriate,” while adding
+that it “does not intend to decouple or to turn inwards.” (European Council, 2023) 
+Von der Leyen’s 30 March 2023 China speech said that decoupling is neither viable nor in Europe’s
+interest and that the EU should focus on “de-risk – not de-couple.” (European Commission
+President, 2023) 
+The 2023 Economic Security Strategy classifies risks into four groups: supply chains, critical
+infrastructure, technology security/leakage, and economic coercion. (European Commission & HR/
+VP , 2023) 
+The same official strategy presents a three-pronged framework: promote, protect, and partner.
+(European Commission & HR/VP , 2023) 
+In official Commission rhetoric, the EU relied on a single supplier—China—for 98% of rare earth
+supply, 93% of magnesium, and 97% of lithium. (European Commission President speech, 2023) 
+The EU imposed provisional countervailing duties on Chinese BEVs in July 2024 and definitive
+countervailing duties in October 2024. (EUR-Lex, 2024) 
+55
+56
+57
+• 
+58
+• 
+59
+• 
+38
+• 
+60
+• 
+61
+• 
+62
+12
+
+--- PAGE 13 ---
+
+The 2025 EU-China summit said bilateral trade was worth €730 billion in 2024, while the EU goods
+deficit reached €305 billion, and it raised concerns over systemic distortions and growing
+manufacturing overcapacity. (Consilium, 2025) 
+The same summit criticised Chinese export controls on rare earths and permanent magnets.
+(Consilium, 2025) 
+DG Trade states that the EU is committed to “de-risking, not decoupling” from China and links this
+to reducing critical dependencies and diversifying supply chains where necessary. (European
+Commission DG Trade, accessed 2026-05-06) 
+The European Chamber’s 2025 business-confidence release reported 73% of respondents saying
+business had become more difficult, 63% reporting missed opportunities due to regulatory or
+market-access barriers, and 52% saying the business environment became more politicised.
+(European Chamber , 2025) 
+Quantitative data table
+Indicator EU
+value
+China /
+bilateral
+value
+Year Source /
+database URL Access
+date
+EU goods
+exports to
+China
+€199.6
+billion n/a 2025
+Eurostat,
+dataset 
+ds-059331
+https://ec.europa.eu/
+eurostat/web/products-
+eurostat-news/w/
+ddn-20260410-2
+2026-05-06
+EU goods
+imports from
+China
+€559.4
+billion n/a 2025
+Eurostat,
+dataset 
+ds-059331
+https://ec.europa.eu/
+eurostat/web/products-
+eurostat-news/w/
+ddn-20260410-2
+2026-05-06
+EU goods
+trade deficit
+with China
+-€359.8
+billion
+bilateral
+balance 2025
+Eurostat,
+dataset 
+ds-059331
+https://ec.europa.eu/
+eurostat/web/products-
+eurostat-news/w/
+ddn-20260410-2
+2026-05-06
+EU services
+balance with
+China
++€21.3
+billion
+surplus
+bilateral
+balance 2025
+European
+Commission
+DG Trade
+China page
+https://
+policy.trade.ec.europa.eu/
+eu-trade-relationships-
+country-and-region/
+countries-and-regions/
+china_en
+2026-05-06
+Chinese
+share of all
+extra-EU
+imports
+21.3% n/a 2024
+Eurostat
+news article /
+underlying
+trade
+dataset
+references
+https://ec.europa.eu/
+eurostat/web/products-
+eurostat-news/w/
+ddn-20250304-1
+2026-05-06
+• 
+21
+• 
+21
+• 
+33
+• 
+63
+13
+
+--- PAGE 14 ---
+
+Indicator EU
+value
+China /
+bilateral
+value
+Year Source /
+database URL Access
+date
+EU
+dependence
+on China for
+rare earth
+supply
+98%
+China
+as
+single
+supplier
+2023
+Official
+Commission
+presidential
+speech
+https://ec.europa.eu/
+commission/presscorner/api/
+files/document/print/en/
+speech_23_2063/
+SPEECH_23_2063_EN.pdf
+2026-05-06
+EU
+dependence
+on China for
+magnesium
+93%
+China
+as
+single
+supplier
+2023
+Official
+Commission
+presidential
+speech
+https://ec.europa.eu/
+commission/presscorner/api/
+files/document/print/en/
+speech_23_2063/
+SPEECH_23_2063_EN.pdf
+2026-05-06
+EU
+dependence
+on China for
+lithium
+97%
+China
+as
+single
+supplier
+2023
+Official
+Commission
+presidential
+speech
+https://ec.europa.eu/
+commission/presscorner/api/
+files/document/print/en/
+speech_23_2063/
+SPEECH_23_2063_EN.pdf
+2026-05-06
+European
+firms saying
+doing
+business
+became
+more difficult
+73% n/a
+2025
+survey on
+2024
+conditions
+European
+Chamber of
+Commerce
+in China,
+Business
+Confidence
+Survey 2025
+release
+https://
+www.europeanchamber.com.cn/
+en/press-releases/3717
+2026-05-06
+European
+firms missing
+opportunities
+due to
+regulatory /
+market-
+access
+barriers
+63% n/a
+2025
+survey on
+2024
+conditions
+European
+Chamber of
+Commerce
+in China,
+Business
+Confidence
+Survey 2025
+release
+https://
+www.europeanchamber.com.cn/
+en/press-releases/3717
+2026-05-06
+Main academic interpretations
+The strongest recent interpretation in the checked literature is that de-risking is not shorthand for
+decoupling. The European Parliament’s 2024 study defines de-risking as an early-stage policy intended to 
+manage risks arising from economic and technological engagement with China, and explicitly states that
+the emerging consensus is to avoid broad decoupling in favour of targeted measures where concrete
+dependencies or risks exist. (European Parliament study, 2024, pp. 8 and 87 as verified) 64
+14
+
+--- PAGE 15 ---
+
+Jing Men’s 2025 article interprets de-risking as evidence that the EU is trying to preserve core
+interdependence while selectively managing vulnerability, especially in technology and security-
+sensitive domains. In her framework, the persistence of climate dialogue and trade exchange alongside
+tighter screening and controls is not contradictory; it is the institutional expression of a hybrid relationship.
+(Men, 2025) 
+Frédéric Krumbein goes further and reads the shift as a move toward a more structural realist EU posture.
+In his interpretation, the EU has not abandoned engagement, but has reinterpreted it through the lenses of
+power asymmetry, geopolitical rivalry, and economic security. This helps explain why the policy mix now
+combines traditional trade dialogue with export controls, FDI screening, subsidy investigations, and
+diversification efforts. (Krumbein, 2025) 
+Policy relevance for the thesis
+For the thesis, the key analytical distinction is that de-risking is a selective policy logic, not a general
+theory of disengagement. It is best presented as the EU’s attempt to reconcile three realities: first, the
+economic scale of the China relationship; second, the strategic risks created by concentrated dependencies;
+and third, the domestic political need to show that trade openness will not be allowed to undermine
+resilience, industrial policy, or security. In later empirical chapters, this distinction will be useful for
+interpreting EU action on EVs, batteries, rare earths, semiconductors, and investment screening without
+mischaracterising the EU as pursuing blanket decoupling. 
+Source list in APA style
+European Chamber of Commerce in China. (2024, May 10). European Chamber calls for action to
+restore business confidence. https://www.europeanchamber.com.cn/en/press-releases/
+3619/european_chamber_calls_for_action_to_restore_business_confidence
+European Chamber of Commerce in China. (2025, May 28). European Chamber highlights impact of
+China’s deflationary environment and calls for addressing supply and demand imbalances. https://
+www.europeanchamber.com.cn/en/press-releases/3717
+European Commission President. (2023, March 30). Speech on EU-China relations at MERICS/EPC. 
+https://ec.europa.eu/commission/presscorner/api/files/document/print/en/
+speech_23_2063/SPEECH_23_2063_EN.pdf
+European Commission & High Representative of the Union for Foreign Affairs and Security Policy.
+(2023). European Economic Security Strategy (verified in Council document ST 10919/23). https://
+data.consilium.europa.eu/doc/document/ST-10919-2023-INIT/en/pdf
+European Commission. (n.d.). EU trade relations with China. https://
+policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-
+and-regions/china_en
+European Parliament, Directorate-General for External Policies. (2024). EU-China relations: De-risking
+or de-coupling – the future of the EU strategy towards China (PE 754.446). https://
+www.europarl.europa.eu/RegData/etudes/STUD/2024/754446/
+EXPO_STU(2024)754446_EN.pdf
+European Union. (2024, July 3). Commission Implementing Regulation (EU) 2024/1866 imposing a
+provisional countervailing duty on imports of new battery electric vehicles originating in the People’s
+Republic of China. https://eur-lex.europa.eu/eli/reg_impl/2024/1866/oj/eng
+17
+19
+65
+• 
+66
+• 
+63
+• 
+59
+• 
+38
+• 
+33
+• 
+64
+• 
+67
+15
+
+--- PAGE 16 ---
+
+European Union. (2024, October 29). Commission Implementing Regulation (EU) 2024/2754 imposing a
+definitive countervailing duty on imports of new battery electric vehicles originating in the People’s
+Republic of China. https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj/eng
+European Council. (2023, June 30). European Council conclusions on China. https://
+www.consilium.europa.eu/en/press/press-releases/2023/06/30/european-council-
+conclusions-on-china-30-june-2023/pdf
+Eurostat. (2026, April 10). Trade in goods with China in 2025. https://ec.europa.eu/eurostat/
+web/products-eurostat-news/w/ddn-20260410-2
+Krumbein, F. (2025). Less panda, more dragon – Moving towards realism in EU–China relations. 
+International Journal of Asian Studies, 22(2), 293–312. https://www.cambridge.org/core/
+journals/international-journal-of-asian-studies/article/less-panda-more-
+dragon-moving-towards-realism-in-euchina-relations/
+5BC424D5D84DEEE434DBC3CB77C36AB5
+Men, J. (2025). EU–China relations at 50: Continuity, change, and institutional resilience. China
+International Strategy Review, 7, 242–257. https://link.springer.com/article/10.1007/
+s42533-025-00200-0
+Gaps or claims requiring further verification
+The raw, underlying Commission dataset behind the 98% / 93% / 97% dependency figures cited in
+von der Leyen’s speech was not separately identified during this session; the numbers are therefore
+usable only as official Commission framing unless rechecked against a primary raw-materials
+dataset. 
+The DG Trade China page provides official 2025 services and FDI figures, but the exact standalone
+Eurostat or OECD table identifiers were not separately verified here. 
+This section did not separately cross-check Chinese official customs or sectoral data for EVs,
+batteries, solar panels, semiconductors, or rare earth exports. No reliable gap-filling should be
+attempted without direct Chinese official or international-database verification. 
+Open questions and verification caveats
+The highest-confidence findings are the 1975-2025 historical periodisation, the continued centrality of the 
+1985 agreement, the 2019 triptych formula of partner/competitor/systemic rival, the 2020 GI agreement
+versus the non-ratified CAI, and the 2023-2025 de-risking turn anchored in European Council
+conclusions, the Economic Security Strategy, and the BEV anti-subsidy case. These points are firmly
+grounded in directly checked EU and WTO materials. 
+Three issues remain especially important for later verification if the thesis requires database-grade
+precision. First, the slight discrepancy between DG Trade and Eurostat news for 2024 goods trade should
+be resolved by consulting the underlying database table directly. Second, the thesis should avoid giving a
+definitive statement about the later procedural outcome of WTO DS516 unless the WTO dispute timeline is
+checked in full. Third, if the thesis needs exact sectoral import shares for solar panels, batteries,
+semiconductors, rare earths, or EV sub-components, those should be extracted directly from Eurostat,
+WTO, or OECD databases rather than from speeches or policy summaries. 
+Overall, the evidence checked here is sufficient to support a strong Chapter I argument: EU-China
+economic relations are still built on deep interdependence and old treaty structures, but the
+• 
+68
+• 
+58
+• 
+24
+• 
+19
+• 
+17
+• 
+61
+• 
+33
+• 
+69
+70
+71
+16
+
+--- PAGE 17 ---
+
+governing logic of the relationship has shifted toward reciprocity, resilience, and economic security.
+That formulation is faithful to both the official EU record and the current academic interpretation visible in
+the sources consulted. 
+https://webgate.ec.europa.eu/isdb_results/factsheets/country/details_china_en.pdf
+https://webgate.ec.europa.eu/isdb_results/factsheets/country/details_china_en.pdf
+https://www.consilium.europa.eu/en/press/press-releases/2025/07/24/25th-eu-china-summit-eu-
+press-release/
+https://www.consilium.europa.eu/en/press/press-releases/2025/07/24/25th-eu-china-summit-eu-press-release/
+https://www.eeas.europa.eu/delegations/china/eu-china-2020-strategic-agenda-cooperation_en
+https://www.eeas.europa.eu/delegations/china/eu-china-2020-strategic-agenda-cooperation_en
+https://www.europarl.europa.eu/doceo/document/E-9-2023-001066-ASW_EN.html
+https://www.europarl.europa.eu/doceo/document/E-9-2023-001066-ASW_EN.html
+https://link.springer .com/article/10.1007/s42533-025-00200-0
+https://link.springer .com/article/10.1007/s42533-025-00200-0
+https://eur-lex.europa.eu/legal-content/EN/TXT/?
+toc=OJ%3AL%3A2020%3A408I%3ATOC&uri=uriserv%3AOJ.LI.2020.408.01.0003.01.ENG
+https://eur-lex.europa.eu/legal-content/EN/TXT/?toc=OJ%3AL%3A2020%3A408I%3ATOC&uri=uriserv%3AOJ.LI.
+2020.408.01.0003.01.ENG
+https://www.consilium.europa.eu/en/press/press-releases/2023/06/30/european-council-
+conclusions-on-china-30-june-2023/pdf
+https://www.consilium.europa.eu/en/press/press-releases/2023/06/30/european-council-conclusions-on-china-30-june-2023/pdf
+https://eur-lex.europa.eu/eli/reg/1978/946/oj/eng
+https://eur-lex.europa.eu/eli/reg/1978/946/oj/eng
+https://eur-lex.europa.eu/eli/agree_internation/1985/2616/oj/eng
+https://eur-lex.europa.eu/eli/agree_internation/1985/2616/oj/eng
+https://goods-schedules.wto.org/system/files/WTO_import/Drive/WT-Let_English/408.pdf
+https://goods-schedules.wto.org/system/files/WTO_import/Drive/WT-Let_English/408.pdf
+https://commission.europa.eu/system/files/2019-03/communication-eu-china-a-strategic-
+outlook.pdf
+https://commission.europa.eu/system/files/2019-03/communication-eu-china-a-strategic-outlook.pdf
+https://www.consilium.europa.eu/en/press/press-releases/2020/07/20/eu-china-council-
+authorises-signature-of-the-agreement-on-geographical-indications/
+https://www.consilium.europa.eu/en/press/press-releases/2020/07/20/eu-china-council-authorises-signature-of-the-agreement-
+on-geographical-indications/
+https://cadmus.eui.eu/entities/publication/b0b6ea42-5428-57b9-abc0-3158f305036e
+https://cadmus.eui.eu/entities/publication/b0b6ea42-5428-57b9-abc0-3158f305036e
+https://www.cambridge.org/core/journals/international-journal-of-asian-studies/article/less-panda-
+more-dragon-moving-towards-realism-in-euchina-relations/5BC424D5D84DEEE434DBC3CB77C36AB5
+https://www.cambridge.org/core/journals/international-journal-of-asian-studies/article/less-panda-more-dragon-moving-
+towards-realism-in-euchina-relations/5BC424D5D84DEEE434DBC3CB77C36AB5
+72
+1 16 71
+2 21 69
+3 8
+4 11
+5 13 17 20 72
+6
+7 53 58 65
+9 26
+10 27 42
+12 28
+14 22 70
+15 29 35 43
+18
+19
+17
+
+--- PAGE 18 ---
+
+https://www.eeas.europa.eu/sites/default/files/20131123.pdf
+https://www.eeas.europa.eu/sites/default/files/20131123.pdf
+https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260410-2
+https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260410-2
+https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250304-1
+https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250304-1
+https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/
+china/eu-china-agreement/milestones-and-documents_en
+https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/china/eu-china-agreement/
+milestones-and-documents_en
+https://eur-lex.europa.eu/legal-content/MS/ALL/?uri=celex%3A32019R0452
+https://eur-lex.europa.eu/legal-content/MS/ALL/?uri=celex%3A32019R0452
+https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/
+china_en
+https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/china_en
+https://policy.trade.ec.europa.eu/enforcement-and-protection/dispute-settlement/wto-dispute-
+settlement/wto-disputes-cases-involving-eu/wtds516-european-union-measures-related-price-comparison-
+methodologies_en
+https://policy.trade.ec.europa.eu/enforcement-and-protection/dispute-settlement/wto-dispute-settlement/wto-disputes-cases-
+involving-eu/wtds516-european-union-measures-related-price-comparison-methodologies_en
+https://www.consilium.europa.eu/media/47718/press-release.pdf
+https://www.consilium.europa.eu/media/47718/press-release.pdf
+https://data.consilium.europa.eu/doc/document/ST-10919-2023-INIT/en/pdf
+https://data.consilium.europa.eu/doc/document/ST-10919-2023-INIT/en/pdf
+https://www.cambridge.org/core/journals/review-of-international-studies/article/cooperation-between-
+the-eu-and-china-a-postliberal-governmentality-approach/B7AB48AD07483F8503691E777988F6D1
+https://www.cambridge.org/core/journals/review-of-international-studies/article/cooperation-between-the-eu-and-china-a-
+postliberal-governmentality-approach/B7AB48AD07483F8503691E777988F6D1
+https://cdn.ceps.eu/wp-content/uploads/2021/05/PI2021-07_The-EU-China-Comprehensive-
+Agreement-on-Investment.pdf
+https://cdn.ceps.eu/wp-content/uploads/2021/05/PI2021-07_The-EU-China-Comprehensive-Agreement-on-Investment.pdf
+https://pure.manchester .ac.uk/ws/portalfiles/portal/85381265/APLR_Manuscript.pdf
+https://pure.manchester .ac.uk/ws/portalfiles/portal/85381265/APLR_Manuscript.pdf
+https://www.consilium.europa.eu/en/press/press-releases/2020/11/23/eu-china-council-gives-final-
+green-light-to-the-agreement-on-geographical-indications/
+https://www.consilium.europa.eu/en/press/press-releases/2020/11/23/eu-china-council-gives-final-green-light-to-the-agreement-
+on-geographical-indications/
+https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/
+china/eu-china-agreement/agreement-explained_en
+https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/china/eu-china-agreement/
+agreement-explained_en
+23 32
+24
+25
+30
+31 37 48
+33
+34 46
+36
+38 54 60
+39
+40 51
+41
+44
+45
+18
+
+--- PAGE 19 ---
+
+https://www.europarl.europa.eu/pdfs/news/expert/2021/5/press_release/
+20210517IPR04123/20210517IPR04123_en.pdf
+https://www.europarl.europa.eu/pdfs/news/expert/2021/5/press_release/20210517IPR04123/20210517IPR04123_en.pdf
+https://eur-lex.europa.eu/eli/reg/2021/821/oj/eng
+https://eur-lex.europa.eu/eli/reg/2021/821/oj/eng
+https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=OJ%3AL_202302675
+https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=OJ%3AL_202302675
+https://eur-lex.europa.eu/eli/dec/2020/1832/oj/eng
+https://eur-lex.europa.eu/eli/dec/2020/1832/oj/eng
+https://ec.europa.eu/commission/presscorner/api/files/document/print/en/speech_23_2063/
+SPEECH_23_2063_EN.pdf
+https://ec.europa.eu/commission/presscorner/api/files/document/print/en/speech_23_2063/SPEECH_23_2063_EN.pdf
+https://eur-lex.europa.eu/eli/reg_impl/2024/1866/oj/eng
+https://eur-lex.europa.eu/eli/reg_impl/2024/1866/oj/eng
+https://www.europeanchamber .com.cn/en/press-releases/3619/
+european_chamber_calls_for_action_to_restore_business_confidence
+https://www.europeanchamber .com.cn/en/press-releases/3619/
+european_chamber_calls_for_action_to_restore_business_confidence
+https://www.europeanchamber .com.cn/en/press-releases/3717
+https://www.europeanchamber .com.cn/en/press-releases/3717
+https://www.europarl.europa.eu/RegData/etudes/STUD/2024/754446/
+EXPO_STU%282024%29754446_EN.pdf
+https://www.europarl.europa.eu/RegData/etudes/STUD/2024/754446/EXPO_STU%282024%29754446_EN.pdf
+https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj/eng
+https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj/eng
+47
+49
+50
+52
+55 59 61
+56 62 67
+57 66
+63
+64
+68
+19
