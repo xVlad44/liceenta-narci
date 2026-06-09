@@ -19,22 +19,22 @@ Sursa: prelucrare proprie pe baza Biroului Municipal de Statistică Shenzhen, Co
 ---
 
 **Figura 3.11. Stocurile de ISD UE–China, 2024 (miliarde EUR)**
-Figura compară stocul investițiilor UE în China (239,3 mld EUR) cu stocul investițiilor chineze în UE (185,6 mld EUR). UE rămâne un investitor mai mare în China decât invers.
-Sursa: Comisia Europeană, DG Comerț — factsheet „European Union, Trade in goods with China”.
+Figura compară stocul investițiilor UE în China (239,3 mld EUR) cu stocul investițiilor chineze în UE (79,8 mld EUR). UE rămâne un investitor semnificativ mai mare în China decât invers.
+Sursa: Comisia Europeană, DG Comerț — pagina „EU trade relations with China”.
 [fișier: 3-2_I_stocuri_isd.png]
 
 ---
 
 **Figura 3.12. Fluxurile anuale de ISD UE–China, 2023 (miliarde EUR)**
-Figura prezintă fluxul anual de ISD dinspre UE către China (10,1 mld EUR) și dinspre China către UE (4,7 mld EUR).
-Sursa: Comisia Europeană, DG Comerț — factsheet „European Union, Trade in goods with China”.
+Figura prezintă fluxul anual de ISD dinspre UE către China (10,1 mld EUR) și dinspre China către UE (6,4 mld EUR).
+Sursa: Comisia Europeană, DG Comerț — pagina „EU trade relations with China”.
 [fișier: 3-2_J_fluxuri_isd.png]
 
 ---
 
 **Figura 3.13. Tipologia sectorială a ISD UE–China (orientări recente)**
-Figura sintetizează sectoarele predominante: ISD ale UE în China se concentrează în automobile, farmaceutice/biotehnologie și materiale de bază, iar ISD ale Chinei în UE în bunuri și servicii de consum, automobile și servicii financiare.
-Sursa: Comisia Europeană, DG Comerț — pagina „China”.
+Figura sintetizează sectoarele predominante: ISD ale UE în China se concentrează în automobile, farmaceutice/biotehnologie și materiale de bază, iar ISD ale Chinei în UE în automobile, divertisment/media/educație și energie/materiale de bază.
+Sursa: Comisia Europeană, DG Comerț — pagina „EU trade relations with China”.
 [fișier: 3-2_K_tipologie_sectoriala.png]
 
 ---
@@ -93,8 +93,8 @@ Sursă: Biroul Municipal de Statistică Shenzhen, Comunicatele 2019–2024 (ex. 
 Sursă: Biroul Municipal de Statistică Shenzhen, Comunicatele 2019–2024.
 
 ### Figura 3.11 / 3.12 — Stocuri și fluxuri ISD UE–China
-Stocuri 2024: UE în China 239,3 mld EUR; China în UE 185,6 mld EUR. Fluxuri 2023: UE→China 10,1 mld EUR; China→UE 4,7 mld EUR.
-Sursă: Comisia Europeană, DG Comerț — factsheet „European Union, Trade in goods with China” (08-05-2025) — `https://webgate.ec.europa.eu/isdb_results/factsheets/country/details_china_en.pdf` și pagina „China” — `https://policy.trade.ec.europa.eu/.../china_en`.
+Stocuri 2024: UE în China 239,3 mld EUR; China în UE 79,8 mld EUR. Fluxuri: UE→China 10,1 mld EUR (2023); China→UE 6,4 mld EUR (2023). (Valori verificate direct pe pagina DG Comerț în 2026; înlocuiesc cifrele mai vechi 185,6 / 4,7.)
+Sursă: Comisia Europeană, DG Comerț — pagina „EU trade relations with China” — `https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/china_en`.
 
 ### Figura 3.14 — Cheltuieli R&D UE (vezi tabelul de mai sus)
 Sursă: Eurostat `rd_e_gerdtot`.

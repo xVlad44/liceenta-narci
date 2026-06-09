@@ -44,29 +44,29 @@ save(fig,"3-2_H_isd_efectiv_shenzhen.png")
 
 # I) Stocuri ISD UE-China 2024 (EUR)
 fig,ax=plt.subplots(figsize=(7.6,5.0))
-val=[239.3,185.6]
+val=[239.3,79.8]
 ax.bar(["Stoc ISD al UE\nîn China","Stoc ISD al Chinei\nîn UE"],val,color=[C_EU,C_CN],width=0.55)
 for i,v in enumerate(val): ax.text(i,v+4,ro(v,1)+" mld EUR",ha="center",fontsize=10,fontweight="bold")
 ax.set_ylabel("Miliarde EUR"); ax.set_ylim(0,270)
 ax.set_title("Stocurile de ISD UE–China, 2024",fontsize=12.5,fontweight="bold")
-note(ax,"Sursă: Comisia Europeană, DG Comerț — factsheet „European Union, Trade in goods with China” (08-05-2025); date ISD la nivel China–UE.")
+note(ax,"Sursă: Comisia Europeană, DG Comerț — pagina „EU trade relations with China” (facts & figures, 2024).")
 save(fig,"3-2_I_stocuri_isd.png")
 
 # J) Fluxuri ISD UE-China 2023 (EUR)
 fig,ax=plt.subplots(figsize=(7.6,5.0))
-val=[10.1,4.7]
+val=[10.1,6.4]
 ax.bar(["Flux ISD\nUE → China","Flux ISD\nChina → UE"],val,color=[C_EU,C_CN],width=0.55)
 for i,v in enumerate(val): ax.text(i,v+0.2,ro(v,1)+" mld EUR",ha="center",fontsize=10,fontweight="bold")
 ax.set_ylabel("Miliarde EUR"); ax.set_ylim(0,12)
 ax.set_title("Fluxurile anuale de ISD UE–China, 2023",fontsize=12.5,fontweight="bold")
-note(ax,"Sursă: Comisia Europeană, DG Comerț — factsheet „European Union, Trade in goods with China” (08-05-2025); date ISD la nivel China–UE.")
+note(ax,"Sursă: Comisia Europeană, DG Comerț — pagina „EU trade relations with China” (facts & figures, 2023).")
 save(fig,"3-2_J_fluxuri_isd.png")
 
 # K) Tipologia sectoriala (calitativ)
 fig,ax=plt.subplots(figsize=(9.6,5.2)); ax.axis("off")
 ax.set_title("Tipologia sectorială a ISD UE–China (orientări recente)",fontsize=12.5,fontweight="bold",pad=18)
 eu_sect=["Automobile","Farmaceutice și biotehnologie","Materiale de bază"]
-cn_sect=["Bunuri și servicii de consum","Automobile","Servicii financiare"]
+cn_sect=["Automobile","Divertisment, media și educație","Energie și materiale de bază"]
 ax.text(0.25,0.86,"ISD ale UE în China",ha="center",fontsize=12,fontweight="bold",color=C_EU,transform=ax.transAxes)
 ax.text(0.75,0.86,"ISD ale Chinei în UE",ha="center",fontsize=12,fontweight="bold",color=C_CN,transform=ax.transAxes)
 for i,s in enumerate(eu_sect):
@@ -75,7 +75,7 @@ for i,s in enumerate(eu_sect):
 for i,s in enumerate(cn_sect):
     ax.add_patch(plt.Rectangle((0.54,0.62-i*0.16),0.42,0.12,transform=ax.transAxes,color="#FBE9EC",ec=C_CN))
     ax.text(0.75,0.68-i*0.16,s,ha="center",va="center",fontsize=10.5,transform=ax.transAxes)
-ax.text(0.5,0.04,"Sursă: Comisia Europeană, DG Comerț — pagina „China” (orientarea sectorială recentă a investițiilor; nivel China–UE).",
+ax.text(0.5,0.04,"Sursă: Comisia Europeană, DG Comerț — pagina „EU trade relations with China” (orientarea sectorială recentă a investițiilor).",
         ha="center",fontsize=8.4,color="#666666",transform=ax.transAxes)
 save(fig,"3-2_K_tipologie_sectoriala.png")
 
