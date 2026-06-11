@@ -5,10 +5,11 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 import textwrap
+from pathlib import Path
 plt.rcParams.update({"font.family":"DejaVu Sans","font.size":11,"axes.edgecolor":"#555555",
     "axes.linewidth":0.8,"axes.grid":True,"grid.color":"#E2E2E2","grid.linewidth":0.7,
     "axes.axisbelow":True,"figure.dpi":150})
-OUT="/sessions/friendly-beautiful-babbage/mnt/liceenta bixi/research/chapter3/charts/"
+OUT=str(Path(__file__).resolve().parent)+"/"
 C_CN="#C8102E"; C_EU="#003399"; C_ACC="#2E8B57"; C_GOLD="#FFB000"
 CNY={2023:7.660022,2024:7.787470}; USD={2019:1.119475,2020:1.142196,2021:1.182740,2022:1.053049}
 def save(fig,name): fig.savefig(OUT+name,bbox_inches="tight",facecolor="white"); plt.close(fig); print("scris:",name)
@@ -19,6 +20,7 @@ def footer(fig,ax,top,src,width=112):
     ax.text(0.0,-0.15,t,transform=ax.transAxes,fontsize=8.0,color="#333333",va="top",ha="left")
     ax.text(0.0,-0.15-per*n-0.010,s,transform=ax.transAxes,fontsize=8.0,color="#666666",va="top",ha="left")
 def ro(x,d=1): return f"{x:,.{d}f}".replace(",","§").replace(".",",").replace("§",".")
+def ro_signed(x,d=1): return ("-" if x<0 else "")+ro(abs(x),d)
 
 yrs=[2019,2020,2021,2022,2023,2024]
 
@@ -51,6 +53,23 @@ ax.set_ylabel("Miliarde EUR"); ax.set_ylim(0,270)
 ax.set_title("Stocurile de ISD UE–China, 2024",fontsize=12.5,fontweight="bold")
 note(ax,"Sursă: Comisia Europeană, DG Comerț — pagina „EU trade relations with China” (facts & figures, 2024).")
 save(fig,"3-2_I_stocuri_isd.png")
+
+# Ia) Fluxuri ISD ale UE 2019-2024 (Eurostat, mii EUR → milioane EUR)
+flux_raw=[294749.3,-69528.5,428220.5,175725.4,-306282.1,288065.1]
+flux_mil=[v/1000 for v in flux_raw]
+fig,ax=plt.subplots(figsize=(7.6,5.0))
+colors=[C_EU if v>=0 else C_CN for v in flux_mil]
+ax.bar([str(y) for y in yrs],flux_mil,color=colors,width=0.55)
+ax.axhline(0,color="#555555",linewidth=0.9,zorder=3)
+pad=max(abs(v) for v in flux_mil)*0.04
+for i,v in enumerate(flux_mil):
+    ax.text(i,v+(pad if v>=0 else -pad),ro_signed(v,1)+" mil. EUR",
+            ha="center",va="bottom" if v>=0 else "top",fontsize=9.5,fontweight="bold")
+ax.set_ylabel("Milioane EUR")
+ax.set_ylim(min(flux_mil)-80,max(flux_mil)+80)
+ax.set_title("Fluxurile de ISD ale UE, 2019–2024 (milioane EUR)",fontsize=12.5,fontweight="bold")
+note(ax,"Sursă: Eurostat, fluxuri de investiții străine directe (BOP), UE-27; valori în mii EUR, afișate în milioane EUR.")
+save(fig,"3-2_Ia_fluxuri_isd_ue.png")
 
 # J) Fluxuri ISD UE-China 2023 (EUR)
 fig,ax=plt.subplots(figsize=(7.6,5.0))
